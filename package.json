@@ -1,0 +1,17 @@
+{
+  "name": "animation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "animation"
+  ],
+  "author": "Jeff Hammond",
+  "license": "ISC",
+  "dependencies": {
+    "particle-api-js": "^5.3.0"
+  }
+}
